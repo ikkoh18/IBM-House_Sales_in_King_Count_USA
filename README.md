@@ -1,11 +1,10 @@
 🏡 House Price Prediction – King County (Seattle)
-📌 Sobre o Projeto
 
+📌 Sobre o Projeto
 Este projeto foi desenvolvido como parte de um laboratório de Data Analysis e Machine Learning.
 O objetivo é analisar e prever preços de casas residenciais no condado de King, que inclui Seattle, utilizando atributos como metragem, número de quartos, banheiros, presença de vista para a água, ano de construção e outros.
 
 📊 Dataset
-
 O conjunto de dados contém informações sobre casas vendidas entre maio de 2014 e maio de 2015 no condado de King (Seattle).
 
 Principais variáveis:
